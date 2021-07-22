@@ -173,8 +173,8 @@ if ( function_exists( 'register_block_pattern' ) ) {
 			'content'       => '<!-- wp:group {"align":"wide","layout":{"contentSize":"1200px"}} -->
 			<div class="wp-block-group alignwide"><!-- wp:columns {"className":"is-style-naledi-columns-overlap"} -->
 			<div class="wp-block-columns is-style-naledi-columns-overlap"><!-- wp:column -->
-			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"blue","className":"is-style-default"} -->
-			<div class="wp-block-group is-style-default has-blue-background-color has-background"><!-- wp:group -->
+			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"quaternary","className":"is-style-default"} -->
+			<div class="wp-block-group is-style-default has-quaternary-background-color has-background"><!-- wp:group -->
 			<div class="wp-block-group"><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 			<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="' . esc_url( get_theme_file_uri( 'assets/images/testimonial.jpg' ) ) . '" alt="Testimonial" /></figure></div>
 			<!-- /wp:image -->
