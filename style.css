@@ -63,3 +63,54 @@ body {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+/*--------------------------------------------------------------
+# Color fallbacks
+--------------------------------------------------------------*/
+.has-main-blue-background-color {
+	background-color: var(--wp--preset--color--primary);
+}
+
+.has-dark-blue-background-color {
+	background-color: var(--wp--preset--color--secondary);
+}
+
+.has-orange-background-color {
+	background-color: var(--wp--preset--color--tertiary);
+}
+
+.has-blue-background-color {
+	background-color: var(--wp--preset--color--quaternary);
+}
+
+.has-pink-background-color {
+	background-color: var(--wp--preset--color--quinary);
+}
+
+.has-purple-background-color {
+	background-color: var(--wp--preset--color--senary);
+}
+
+.has-main-blue-color {
+	color: var(--wp--preset--color--primary);
+}
+
+.has-dark-blue-color {
+	color: var(--wp--preset--color--secondary);
+}
+
+.has-orange-color {
+	color: var(--wp--preset--color--tertiary);
+}
+
+.has-blue-color {
+	color: var(--wp--preset--color--quaternary);
+}
+
+.has-pink-color {
+	color: var(--wp--preset--color--quinary);
+}
+
+.has-purple-color {
+	color: var(--wp--preset--color--senary);
+}
