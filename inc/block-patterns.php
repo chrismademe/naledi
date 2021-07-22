@@ -92,8 +92,8 @@ if ( function_exists( 'register_block_pattern' ) ) {
 			<!-- /wp:column -->
 			
 			<!-- wp:column -->
-			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"purple"} -->
-			<div class="wp-block-group has-purple-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3} -->
+			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"senary"} -->
+			<div class="wp-block-group has-senary-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3} -->
 			<h3 class="has-text-align-center"><strong><a href="#">' . esc_html__( 'Our Products', 'naledi' ) . '</a></strong></h3>
 			<!-- /wp:heading -->
 			
