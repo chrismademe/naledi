@@ -53,13 +53,13 @@
 
 			"gradients": [
 				{
-					"slug": "pink-to-yellow",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--pink), var(--wp--preset--color--yellow))",
+					"slug": "quinary-to-yellow",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--quinary), var(--wp--preset--color--yellow))",
 					"name": "Pink to Yellow"
 				},
 				{
-					"slug": "yellow-to-pink",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--yellow), var(--wp--preset--color--pink))",
+					"slug": "yellow-to-quinary",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--yellow), var(--wp--preset--color--quinary))",
 					"name": "Yellow to Pink"
 				},
 				{
@@ -83,13 +83,13 @@
 					"name": "Yellow to Purple"
 				},
 				{
-					"slug": "pink-to-purple",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--pink), var(--wp--preset--color--purple))",
+					"slug": "quinary-to-purple",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--quinary), var(--wp--preset--color--purple))",
 					"name": "Pink to Purple"
 				},
 				{
-					"slug": "purple-to-pink",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--purple), var(--wp--preset--color--pink))",
+					"slug": "purple-to-quinary",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--purple), var(--wp--preset--color--quinary))",
 					"name": "Purple to Pink"
 				}
 			]

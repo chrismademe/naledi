@@ -68,8 +68,8 @@ if ( function_exists( 'register_block_pattern' ) ) {
 			'description'   => esc_html_x( 'Info bar with three columns', 'Block pattern description', 'naledi' ),
 			'content'       => '<!-- wp:columns {"align":"full","className":"naledi-info"} -->
 			<div class="wp-block-columns alignfull naledi-info"><!-- wp:column -->
-			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"pink"} -->
-			<div class="wp-block-group has-pink-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3} -->
+			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"quinary"} -->
+			<div class="wp-block-group has-quinary-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3} -->
 			<h3 class="has-text-align-center"><strong><a href="#">' . esc_html__( 'Virtual Tour', 'naledi' ) . '</a></strong></h3>
 			<!-- /wp:heading -->
 			
@@ -187,8 +187,8 @@ if ( function_exists( 'register_block_pattern' ) ) {
 			<!-- /wp:column -->
 			
 			<!-- wp:column -->
-			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"pink","className":"is-style-default"} -->
-			<div class="wp-block-group is-style-default has-pink-background-color has-background"><!-- wp:group -->
+			<div class="wp-block-column"><!-- wp:group {"backgroundColor":"quinary","className":"is-style-default"} -->
+			<div class="wp-block-group is-style-default has-quinary-background-color has-background"><!-- wp:group -->
 			<div class="wp-block-group"><!-- wp:image {"align":"center","width":180,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 			<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="' . esc_url( get_theme_file_uri( 'assets/images/testimonial-1.jpeg' ) ) . '" alt="" width="180"/></figure></div>
 			<!-- /wp:image -->
