@@ -63,13 +63,13 @@
 					"name": "Yellow to Pink"
 				},
 				{
-					"slug": "orange-to-yellow",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--orange), var(--wp--preset--color--yellow))",
+					"slug": "tertiary-to-yellow",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--tertiary), var(--wp--preset--color--yellow))",
 					"name": "Orange to Yellow"
 				},
 				{
-					"slug": "yellow-to-orange",
-					"gradient": "linear-gradient(160deg, var(--wp--preset--color--yellow), var(--wp--preset--color--orange))",
+					"slug": "yellow-to-tertiary",
+					"gradient": "linear-gradient(160deg, var(--wp--preset--color--yellow), var(--wp--preset--color--tertiary))",
 					"name": "Yellow to Orange"
 				},
 				{
