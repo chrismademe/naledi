@@ -50,8 +50,8 @@ if ( function_exists( 'register_block_pattern' ) ) {
 			<!-- /wp:spacer -->
 			
 			<!-- wp:buttons {"contentJustification":"center"} -->
-			<div class="wp-block-buttons is-content-justification-center"><!-- wp:button {"backgroundColor":"white","textColor":"main-blue","style":{"border":{"radius":50}},"className":"is-style-outline"} -->
-			<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-main-blue-color has-white-background-color has-text-color has-background" href="#" style="border-radius:50px"><strong>' . esc_html__( 'Book Now', 'naledi' ) . '</strong></a></div>
+			<div class="wp-block-buttons is-content-justification-center"><!-- wp:button {"backgroundColor":"white","textColor":"primary","style":{"border":{"radius":50}},"className":"is-style-outline"} -->
+			<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background" href="#" style="border-radius:50px"><strong>' . esc_html__( 'Book Now', 'naledi' ) . '</strong></a></div>
 			<!-- /wp:button --></div>
 			<!-- /wp:buttons --></div></div>
 			<!-- /wp:cover -->',
